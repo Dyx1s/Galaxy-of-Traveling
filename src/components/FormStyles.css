@@ -8,7 +8,7 @@ form {
     flex-direction: column;
     padding: 1rem;
     margin: auto;
-    min-width: 600px;
+    max-width: 600px;
 
 }
 
