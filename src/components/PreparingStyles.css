@@ -57,3 +57,13 @@
         min-width: 80%;
     }
 }
+
+@media screen and (max-width: 380px) {
+    .preparing {
+        grid-template-columns: 1fr;
+    }
+
+    .preparing img {
+        min-width: 60%;
+    }
+}
